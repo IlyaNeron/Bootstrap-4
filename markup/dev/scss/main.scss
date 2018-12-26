@@ -1,0 +1,19 @@
+// custom
+@import 'custom/index';
+
+// framework
+@import 'bootstrap/bootstrap';
+
+// layouts
+@import 'layouts/wrapper';
+@import 'layouts/header';
+@import 'layouts/main';
+@import 'layouts/footer';
+
+// components
+@import 'components/test';
+
+// vendors
+@import 'vendors/icomoon';
+
+// custom with includes, extends
